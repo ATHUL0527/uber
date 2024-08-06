@@ -1,0 +1,101 @@
+.footer{
+    padding: 80px;
+    background-color:black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.footer-section-1{
+    margin-bottom: 60px;
+}
+.footer-section-1 h3{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+.footer-section-1 p{
+    font-size: 20px;
+}
+ul{
+    list-style-type: none;
+    padding: 0px;
+    
+}
+li{
+    margin: 20px 0px;
+}
+.footer-section-2{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 200px;
+    
+}
+.footer-box{
+    align-items: center;
+    
+}
+.footer-box h3{
+    justify-content: center;
+}
+.footer-section-3{
+    display: flex;
+    margin-left: -15px;
+    justify-content: space-between;
+    margin-top: 50px;
+    align-items: center;
+    
+    
+    
+    
+}
+.icon-container{
+    display: flex;
+}
+.footer-icon{
+    display: flex;
+    margin-right: 50px;
+    
+    
+}
+.footer-icon-img{
+    padding: 20px;
+    width: 15px;
+    height: 15px;
+}
+.icon-section-left{
+    display: flex;
+    
+    
+}
+.lan{
+    display: flex;
+    align-items: center;
+}
+.lan p{
+    font-size: small;
+   
+}
+.icon-section-left-img{
+    width: 15px;
+    height: 15px;
+    margin: 16px 10px;
+    display: flex;
+    align-items: center;
+}
+.footer-section-4{
+    display: flex;
+    height: 40px;
+    margin-top: 50px;
+    gap: 8px;
+    
+}
+.footer-section-5{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    color:gray;
+}
+.f-s-5{
+    display: flex;
+    gap: 25px;
+}

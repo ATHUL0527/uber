@@ -1,0 +1,85 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    height: 50px;
+    align-items: center;
+    padding: 10px 50px;
+
+
+}
+.left-section{
+    display: flex;
+    flex-direction: row;
+    width: 100px;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 24px;
+    
+    
+}
+.middle-section-elements{
+    margin: 0px 25px;
+    padding: 2px;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+    
+   
+}
+.middle-section-elements{
+    height: 20px;
+    border-radius: 60px;
+    padding: 5px;
+    cursor: pointer;
+
+}
+.middle-section-elements:hover{
+    background-color: rgb(59, 57, 57);
+    transition: 0.15s;
+
+}
+.uber-logo{
+    padding-left: 20px;
+}
+.middle-section{
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    
+}
+.right-section{
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    
+    justify-content:space-between;
+    height: 50px;
+    align-items: center;
+}
+.signup-button{
+    height: 30px;
+    width: 80px;
+    background-color: white;
+    border: 1px solid white;
+    color: black;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    border-radius: 40px;
+    font-weight: 600;
+    padding:5px; 
+    margin: 20px;   
+    
+}
+.right-section-elements{
+    height: 20px;
+    border-radius: 60px;
+    padding: 5px;
+    cursor: pointer;
+    margin: 5px;   
+   
+}
+.right-section-elements:hover{
+    background-color: rgb(59, 57, 57);
+    transition: 0.15s;
+
+}
